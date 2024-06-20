@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Life, Emotions, Career, Misc.</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://www.20110511.xyz/blog/</link>
     <description>Recent content in Blog on Life, Emotions, Career, Misc.</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.20110511.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
