@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Life, Emotions, Career, Misc.</title>
-    <link>https://www.20110511.xyz/blog/</link>
+    <link>https://www.tansha.com.cn/blog/</link>
     <description>Recent content in Blog on Life, Emotions, Career, Misc.</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://www.20110511.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.tansha.com.cn/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
