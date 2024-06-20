@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untagged on Life, Emotions, Career, Misc.</title>
+    <title>Untagged on 记事本</title>
     <link>https://www.tansha.com.cn/tags/untagged/</link>
-    <description>Recent content in Untagged on Life, Emotions, Career, Misc.</description>
+    <description>Recent content in Untagged on 记事本</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2024 16:00:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 18:53:51 +0800</lastBuildDate>
     <atom:link href="https://www.tansha.com.cn/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explaining Configs of </title>
+      <link>https://www.tansha.com.cn/posts/explaining_configs/</link>
+      <pubDate>Thu, 20 Jun 2024 18:53:51 +0800</pubDate>
+      <guid>https://www.tansha.com.cn/posts/explaining_configs/</guid>
+      <description>0.1 Configuation in hugo.toml hugo.toml represents Global configuration for Hermit - V2. It is indicative on the changes to make the theme tailored to your personal preferences.&#xA;baseURL : The absolute URL (protocol, host, path, and trailing slash) of your published site.&#xA;languageCode : A language tag as defined by RFC 5646. This value is used to populate:&#xA;The element in the internal RSS template The lang attribute of the element in the internal alias template title - Title of the Site</description>
+    </item>
     <item>
       <title>今日清明</title>
       <link>https://www.tansha.com.cn/posts/jinri_qingming/</link>
